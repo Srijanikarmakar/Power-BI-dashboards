@@ -1,4 +1,2 @@
-# website-performance-dashboard
-
-
-In today's digital age, understanding website performance is crucial for optimizing user experience and increasing conversion rates. Analyzing key metrics such as page views, session duration, bounce rate, and conversion rate can provide valuable insights into user behavior and website efficiency. This project aims to create an interactive and insightful dashboard using Power BI to visualize website performance metric
+# website-performance Dashboard and Business-Dashboard dashboard
+The Website-Performance Dashboard tracks metrics like page load times, bounce rates, and user engagement to optimize website efficiency and user experience. The Business Dashboard provides a holistic view of financial and operational metrics, enabling informed decision-making. Together, these Power BI tools deliver actionable insights to drive digital and business growth.
